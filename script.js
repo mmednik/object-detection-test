@@ -108,6 +108,7 @@ function predictWebcam() {
         liveView.appendChild(p);
         children.push(highlighter);
         children.push(p);
+       // console.log(predictions[n].class);
       }
     }
     
